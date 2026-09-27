@@ -198,8 +198,7 @@ Live App:
 https://a-company-knowledge-bot.streamlit.app
 
 GitHub Repository:
-https://github.com/ajeksmarvins/Week11-RAG-Knowledge-Bot
-
+https://github.com/ajeksmarvins/RAG-Knowledge-Bot
 👨‍💻 Author
 
 Ajekuko Marvellous
